@@ -3,9 +3,10 @@
 This repo contains the hack session material for the lecture series "Modern Data Analysis", by Chihway Chang.
 
 The slides for the lecture can be found here:
-* Lecture 1
-* Lecture 2
-* Lecture 3
+* [Lecture 1](https://www.dropbox.com/s/7w8k0m3tadi4uzf/cosmology_on_beach_chang_1.pdf?dl=0)
+* [Lecture 2]()
+* [Lecture 3]()
 
-The slides for the hack session can be found here:
+All the notebooks for the hack sessions can be opened directly on Google Colab so should not need any additional installation on your laptop. If you want to do further exploration it might be good to clone the repo as you could run out of RAM for some of the exercises.
+
 
